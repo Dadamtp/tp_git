@@ -1,0 +1,6 @@
+git init .
+git config --list
+git config user.name [USERNAME]
+git config user.email [EMAIL]
+git config push.simple
+
