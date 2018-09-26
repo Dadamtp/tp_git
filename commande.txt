@@ -3,4 +3,15 @@ git config --list
 git config user.name [USERNAME]
 git config user.email [EMAIL]
 git config push.simple
+git config core.editor vim
+
+git log --decorate --all --oneline --graph
+
+
+[PASSAGE SUR UNE NOUVELLE BRANCHE]
+
+git checkout -b [NOM_DE_LA_BRANCHE]
+git branch -a
+
+
 
