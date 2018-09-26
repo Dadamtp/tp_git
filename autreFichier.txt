@@ -1,1 +1,3 @@
 Bonjour, nous allons tester le merge.
+
+Voici une modification à partir de la branche master.
